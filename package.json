@@ -1,18 +1,18 @@
 {
-	"name": "vscode-eslint",
-	"displayName": "ESLint",
-	"description": "Integrates ESLint JavaScript into VS Code.",
+	"name": "evolution-gaming--vscode-eslint",
+	"displayName": "ESLint (with `autoFixOnSave: boolean | string[]`)",
+	"description": "Integrates ESLint JavaScript into VS Code. The plugin is a fork of \"vscode-eslint\", with added ability to specify a set of rules to autofix on save. See https://github.com/microsoft/vscode-eslint/issues/767 and https://github.com/microsoft/vscode-eslint/issues/208 for more details.",
 	"version": "1.9.2",
 	"author": "Microsoft Corporation",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-eslint.git"
+		"url": "https://github.com/evolution-gaming/vscode-eslint.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Microsoft/vscode-eslint/issues"
+		"url": "https://github.com/evolution-gaming/vscode-eslint/issues"
 	},
-	"publisher": "dbaeumer",
+	"publisher": "evolution-gaming",
 	"icon": "eslint_icon.png",
 	"categories": [
 		"Programming Languages",
