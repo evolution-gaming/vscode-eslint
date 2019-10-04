@@ -1,7 +1,7 @@
 {
 	"name": "client",
-	"displayName": "ESLint",
-	"description": "Integrates ESLint into VS Code.",
+	"displayName": "ESLint (with `autoFixOnSave: boolean | string[]`)",
+	"description": "Integrates ESLint JavaScript into VS Code. The plugin is a fork of \"vscode-eslint\", with added ability to specify a set of rules to autofix on save. See https://github.com/microsoft/vscode-eslint/issues/767 and https://github.com/microsoft/vscode-eslint/issues/208 for more details.",
 	"version": "1.9.0",
 	"private": true,
 	"author": "Microsoft Corporation",
